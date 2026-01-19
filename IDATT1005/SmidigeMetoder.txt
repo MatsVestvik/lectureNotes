@@ -1,0 +1,62 @@
+Agile metode
+
+- du har en løs plan I starten slik at du kan finne ut av det etter vert
+- problem -> collaborative -> Iterative -> Adaptive Progress -> repeat
+- Scrum is a type of Agile Method
+	- Scrum Master facilitates
+	  Is a Dev
+	- Product owner
+	  Voice of the customer, ensure the value of the product
+	- Dev Team
+	  Actually works
+	- Daily StandUp
+	 Works in cycles of 1-4 weeks
+		Weekly
+		PreCycle
+		- backlog
+		  Identify product features an prioritize
+		- Sprint planning
+		  Plan what feature to develop and give rough estimates
+		PostCycle
+		- Sprint review
+		  Look at previous sprint and judge
+		- Sprint retrospective
+		  How can we improve our scrum
+		Daily Scrum
+- Kanban is another widely used Agile method
+	- Continuos no structured work sprints
+	- LeadTime
+	  The time it takes for a task to go from new to 
+	  complete. This creates an idea of capacity
+	- main difference from Scrum less structure (see slideshow)
+- Prouct backlog
+	- Create task 
+	- Place them in prioritized list
+- Prodct refinement
+	- estimating time for items
+	- take large items and split them up
+	- delete items
+	- reprioritze items
+	- add items
+- Daily Standup
+	- What did you do yesterday
+	- What will you do tody
+	- is there anthing in your way
+- DevOps (Development and IT operations)
+	- Plan -> code -> Build -> Test -> Release -> Delay -> Operate
+	- DevOps being a possible extension of agile
+	  This brings in the Operations team allowing continuos integrations and development
+
+Agile is a methodoligy and DevOPs is a cultrue together creatign Agile DEVOPS
+
+Monolith vs REST and microservices
+- Monolith build on e thing as one thing
+
+REST
+- Stands for REpresentational State Transfer.
+- It is a arctitectural style providing standards between computer systems
+- data and functionality are accesed through Uniform Resource Identifiers
+Microservices
+- Break the app into smaller parts that work mostly independent of each other.
+
+
