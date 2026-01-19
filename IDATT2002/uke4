@@ -1,1 +1,20 @@
 Undervisning uke 4
+Vi går igjennom en case hvor vi setter opp en database for midtbykortet.
+
+Vi skal bare sette opp en database :/.
+
+Han bare pasta et innleggeg fra bb i sql klienten. For å lage tablen sin.
+
+Øvelse på queries:
+
+show databases;
+use 'dbname';
+show tables;
+desc 'tablename';
+select * from 'tablename';
+
+insert into 'tablename' ('tablename_id' int auto_increment primary key , data int);
+
+alter table 'tableename'(variables you want to alter)
+values(values in place of variables);
+
