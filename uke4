@@ -1,1 +1,20 @@
+Polymorfisme
+Polymorf betyr mange former.
+Hvis vi ser på eksemplet med some vil vi gjerne behandle photopost og messagepost likt.
+Her er det nødvendig med polymorfisme.
+Med arv kan man bruke et subobjekt i plass for superobjektet.
+
+Polymorfisme:
+
+Post post = new post(user);
+post = new MessagePost(User, "Hello world");
+post = new PhotoPost(user, photo);
+
+Dette er lov og lager et 'mindre object' med færre funksjonaliteter:
+Post post = new MessagePost(user, "Hello world");
+
+List<Post< posts = new ArrayList<>();
+denne listen kan ga objekter av typen post men også av alle subklassene.
+
+
 
