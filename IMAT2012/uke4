@@ -21,8 +21,8 @@ Schwarz-regelen: for glatte funksjoner har rekkefølgen på de partiellderiverte
 Vi snakker om opptimisering.
 For et ekstremaltpunkt må den deriverte være lik 0.
 For å finne ut om det er maksimum eller minimum å vi se på de dobbelderiverte med hessematrisen.
-f'' > 0 betyr topp.
-f'' < 0 betyr bunn.
+f'' < 0 betyr topp.
+f'' > 0 betyr bunn.
 Dette er for 2d grafer men blir nødvendig i 3d.
 
 f(x) = 3x^2-9x
@@ -38,5 +38,7 @@ f''(x) = -pi**2 cos(pi x)
 vi ser på den dobbelderverte for å finne hva slags punkt det er.
 for å finne alle lokale ekstrema
 
+Husk å se på grensene til grafen og se om grafen er definert på visse verdier.
 
+I tangentplanet til et ekstremalpunkt må være flatt altså ingen stigning i noen rettning.
 
