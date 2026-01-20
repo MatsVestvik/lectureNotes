@@ -18,4 +18,25 @@ En sammling av alle de dobbelderiverte skrevet på matrise form kalles 'Hessemat
 Schwarz-regelen: for glatte funksjoner har rekkefølgen på de partiellderiverte ingenting å si. 
 - Du kan altså først derivere med hensyn på x etterfulgt av y og det vil gi samme svar som y og x.
 
+Vi snakker om opptimisering.
+For et ekstremaltpunkt må den deriverte være lik 0.
+For å finne ut om det er maksimum eller minimum å vi se på de dobbelderiverte med hessematrisen.
+f'' > 0 betyr topp.
+f'' < 0 betyr bunn.
+Dette er for 2d grafer men blir nødvendig i 3d.
+
+f(x) = 3x^2-9x
+f'(x) = 6x-9
+f'(1.5) = 0
+x = 1.5 er et ektremal punkt
+
+f(x) = cos(pi x)
+f'(x) = pi sin(pi x)
+alle ekstremalpunkter er gitt for den deriverte like null.
+
+f''(x) = -pi**2 cos(pi x)
+vi ser på den dobbelderverte for å finne hva slags punkt det er.
+for å finne alle lokale ekstrema
+
+
 
