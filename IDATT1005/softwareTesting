@@ -1,0 +1,21 @@
+What is software testing.
+different types of softwaretesting
+-Unit
+	- når prosjektet blir større blir det nødvendig å planlegge testene
+	- jacoco er et verktøy for å se dekkningen av enhetstestene dine
+-blackbox whitebox
+-functional testing vs nonfunctianal
+-positive negative
+-smoke sanity regression
+-test behaviour driven development 
+	-TDD lag tester først, før du lager kode
+	-BDD kan ha et programm som går igjennom og tester all planlagt funksjonalitet
+	-De fungerer veldig bra sammen
+-user testing
+	-usability 
+	-accaptance
+Vi ønske å fjerne bugs
+
+Pipeline
+- Dette er også noe for å se coverage
+
