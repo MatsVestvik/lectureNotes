@@ -7,3 +7,15 @@ Tangent *= Stigningstall
 
 Definerer den deriverte.
 
+Dette bruker han for å snakke om stigningraten eller tangent planet av et punkt i terrenget.
+Vi bruker de partiellderiverte for å lage enhetsvekorer for tangentplanet.
+
+Alle partiellderiverte sammles i en vektor (Gradienten).
+Rettningsdervierte kan uttrykkes med en skalar av gradienten.
+
+En sammling av alle de dobbelderiverte skrevet på matrise form kalles 'Hessematrisen'.
+
+Schwarz-regelen: for glatte funksjoner har rekkefølgen på de partiellderiverte ingenting å si. 
+- Du kan altså først derivere med hensyn på x etterfulgt av y og det vil gi samme svar som y og x.
+
+
