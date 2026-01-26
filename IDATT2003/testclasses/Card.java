@@ -17,6 +17,10 @@ public class Card{
         this.description = description;
     }
 
+    public void play(){
+        System.out.println("Playing card: " + name);
+    }
+
     @Override
     public String toString(){
         return "Name: " + name + ", Cost: " + cost + ", Description: " + description;

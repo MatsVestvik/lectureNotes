@@ -12,4 +12,8 @@ public class Itemcard extends Card{
         super(name, cost, description);
         this.effect = effect;
     }    
+    @Override
+    public void play(){
+        System.out.println("Using item: " + name + " with Effect: " + effect);
+    }
 }

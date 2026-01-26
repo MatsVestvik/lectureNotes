@@ -7,6 +7,6 @@ public class Main {
         Deck deck = new Deck();
         deck.addCard(creature);
         deck.addCard(item);
-        System.out.println(deck.getRandomCard().toString());
+        deck.getRandomCard().play();
     }
 }

@@ -15,4 +15,9 @@ public class Creaturecard extends Card{
         this.attack = attack;
         this.health = health;
     }    
+
+    @Override
+    public void play(){
+        System.out.println("Summoning creature: " + name + " with Attack: " + attack + " and Health: " + health);
+    }
 }
